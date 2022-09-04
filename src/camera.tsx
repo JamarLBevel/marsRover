@@ -16,7 +16,7 @@ fetch('https://api.nasa.gov/mars-photos/api/v1/rovers/curiosity/photos?sol=1000&
             <Container>
             <Row className="align-items-center" xs={1} md={2} lg={2} style={{textAlign:'center'}}>
             <Col>
-            <h1 style={{color:'white'}}>Mars Rover Photos</h1>
+            <h1 style={{color:'white'}}>Mars Rover Photo's</h1>
             </Col>
             <Col>
             <Image fluid src='https://d.newsweek.com/en/full/1989062/mars.jpg?w=1600&h=1200&q=88&f=9f856919ce16ef0ca620a6c189e3adf1' />
