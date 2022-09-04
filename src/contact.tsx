@@ -1,12 +1,13 @@
 import React from "react";
-
+import { Container } from "react-bootstrap";
 
 export default function Contact() {
 
 
 return (
-
-    <div style={{backgroundColor:'red'}}>
+   
+   
+    <div>
         <h1>
             contact me
         </h1>
@@ -22,7 +23,7 @@ return (
 
     </div>
 
-
+   
 );
 
 }
